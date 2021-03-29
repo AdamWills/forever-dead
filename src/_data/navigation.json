@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/"
-    },
-    {
       "text": "About",
       "url": "/about/"
+    },
+    {
+      "text": "Music",
+      "url": "/music/"
+    },
+    {
+      "text": "Video",
+      "url": "/video/"
+    },
+    {
+      "text": "Merch",
+      "url": "https://xforeverdeadx.bandcamp.com/"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact/"
     }
   ]
 }

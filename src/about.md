@@ -1,36 +1,19 @@
 ---
-layout: 'layouts/home.html'
-title: 'Home'
-meta:
-  desc:
-    '11st-Starter-Kit is a minimal starting point for building static websites
-    with 11ty, powered by Snowpack with Tailwind CSS and Alpine.js.'
-intro:
-  title: 'Get Yours'
-  desc:
-    'Clone and deploy your own <span class="text-gray-900 font-semibold">11st
-    Starter-Kit</span> starter template.'
+layout: 'layouts/page.html'
+title: 'Forever Dead!'
 ---
 
-## Hosting
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com/). 
+<h1>About!</h1>
 
-<p class="flex items-center m-0">
-  Latest deploy status:
-  <a href="https://app.netlify.com/sites/11st-starter-kit/deploys" class="ml-2">
-    <img
-      src="https://api.netlify.com/api/v1/badges/ec6da587-72ba-490a-ad4b-167802a9c197/deploy-status"
-      style="margin: 0"
-      alt="Netlify Status"
-    />
-  </a>
-</p>
+Five piece punk rock outfit formed in 2005.
 
-## One-click deploy
-To get your own instance of this [Eleventy](https://11ty.io) starter project
-cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just
-click the button below and follow the instructions.
+Formerly dabbling in the Psychobilly genre, Forever Dead have since settled into their punk rock roots. Playing a rowdy, no bull shit style, of course.
 
-[![Deploy to Netlify](/images/deploy-to-netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stefanfrede/11st-starter-kit)
+<img src="https://res.cloudinary.com/dy8mxogvn/image/upload/v1617016443/foreverdead/50116454_10161702087965657_1973060597998157824_n.jpg" alt="Forever Dead playing live" class="">
 
+* Vox - Chelsea Heart
+* Bass - George Gratz
+* Guitar - El Gratzo
+* Guitar - Mrac Mrac
+* Drums - Tylore T. Destroyor

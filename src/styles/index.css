@@ -1,3 +1,46 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'sex_pistolsregular';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/sex_pistols-webfont.woff2') format('woff2'),
+       url('../fonts/sex_pistols-webfont.woff') format('woff');
+}
+
+body {
+  background-image: url('https://res.cloudinary.com/dy8mxogvn/image/upload/c_scale,f_auto,q_auto:good,o_60,w_1200/v1614171563/foreverdead/paper-bg.jpg');
+  background-size: cover;
+}
+
+.splash {
+  text-shadow:
+    2px 2px 0 black,
+    10px 8px 0 red;
+  transform: rotate(-10deg);
+}
+
+nav > .grid {
+  grid-template-columns: 1fr auto;
+}
+
+nav [role="nav"] a {
+  backface-visibility: hidden;
+  box-shadow: 2px 2px 0 white, 4px 4px 0 black;
+  transform: rotate(3deg);
+  transition: transform 0.1s ease-in-out;
+}
+
+nav [role="nav"] a:nth-last-of-type(2n) {
+  transform: rotate(-2deg);
+}
+
+nav li + li {
+  @apply mt-2;
+}
+
+nav li.active a {
+  @apply bg-fd-yellow;
+}
