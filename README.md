@@ -1,5 +1,6 @@
-# 📦 Forever Dead (11ty site)
+# 💀 Forever Dead (11ty site)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/07c10470-0655-42e6-ad23-8bc4d3f189db/deploy-status)](https://app.netlify.com/sites/forever-dead/deploys)
 
 ## Built with
 [11ty](https://www.11ty.dev/), powered by [Snowpack](https://www.snowpack.dev/)
