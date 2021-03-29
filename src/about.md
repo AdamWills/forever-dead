@@ -1,6 +1,7 @@
 ---
 layout: 'layouts/page.html'
 title: 'Forever Dead!'
+description: 'Forever Dead are a female fronted Canadian Punk Rock band. Kicking ass and taking names since 2005'
 ---
 
 

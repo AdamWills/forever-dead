@@ -1,6 +1,7 @@
 ---
 layout: 'layouts/page.html'
 title: 'Contact'
+description: 'Forever Dead are a female fronted Canadian Punk Rock band. Kicking ass and taking names since 2005'
 ---
 
 <h1>Contact!</h1>

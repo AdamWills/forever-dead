@@ -1,6 +1,7 @@
 ---
 layout: 'layouts/full.html'
 title: 'Music - Forever Dead!'
+description: 'Forever Dead are a female fronted Canadian Punk Rock band. Kicking ass and taking names since 2005'
 ---
 
 <h1 class=" font-pistols text-6xl text-center mb-8">Music!</h1>
