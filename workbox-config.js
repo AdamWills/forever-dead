@@ -1,5 +1,5 @@
 module.exports = {
-  cacheId: '11ststarterkit',
+  cacheId: 'foreverdead',
   globDirectory: 'dist/',
   globPatterns: ['**/*.{css,js,json}'],
   swDest: 'dist/sw.js',
@@ -12,27 +12,6 @@ module.exports = {
         cacheName: 'html',
         expiration: {
           maxAgeSeconds: 60 * 60 * 24 * 7,
-        },
-      },
-    },
-    {
-      urlPattern: /^(https:\/\/rsms\.me\/inter\/).+(.css)$/,
-      handler: 'StaleWhileRevalidate',
-      options: {
-        cacheName: 'inter-font-stylesheet',
-      },
-    },
-    {
-      urlPattern: /^(https:\/\/rsms\.me\/inter\/font-files\/)/,
-      handler: 'CacheFirst',
-      options: {
-        cacheName: 'inter-font-webfont',
-        cacheableResponse: {
-          statuses: [0, 200],
-        },
-        expiration: {
-          maxAgeSeconds: 60 * 60 * 24 * 365,
-          maxEntries: 30,
         },
       },
     },
