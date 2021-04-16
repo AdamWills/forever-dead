@@ -8,7 +8,7 @@
 {% assign current_url = site.url | append: page.url %}
 
 {% unless social_image %}
-  {% assign social_image = site.url | append: '/images/social-share.png' %}
+  {% assign social_image = site.url | append: '/images/social-share.jpg' %}
 {% endunless %}
 
 {% if meta.title %}
@@ -47,7 +47,6 @@
 <meta name="theme-color" content="#4a5568" />
 
 <link rel="apple-touch-icon" href="/images/icons/icon-192x192.png" />
-<link rel="icon" href="/images/icons/favicon.svg" type="image/svg+xml" />
 <link rel="manifest" href="/manifest.json" />
 
 <link rel="stylesheet" href="/styles/index.css" />
