@@ -9,9 +9,9 @@ module.exports = {
     },
     extend: {
       colors: {
-        'fd-blue': '#4dc8ed',
-        'fd-yellow': '#f7ec1f',
-        'fd-pink': 'hotpink',
+        'fd-blue': '#98f5f8',
+        'fd-yellow': '#eeff40',
+        'fd-pink': '#ff43ae',
       },
       gridTemplateRows: {
         main: 'min-content 1fr',

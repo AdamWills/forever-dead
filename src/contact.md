@@ -7,7 +7,7 @@ description: 'Forever Dead are a female fronted Canadian Punk Rock band. Kicking
 <h1>Contact!</h1>
 
 <div class="icons flex flex-wrap items-center justify-center gap-4 fill-current">
-  <a href="https://www.facebook.com/pages/Forever-Dead/35133030656" class="hover:text-fd-pink">
+  <a href="https://www.facebook.com/ForeverDeadOfficial/" class="hover:text-fd-pink">
     <svg class="fill-current" width="100" height="100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path class="icon" id="facebook-icon" d="M204.067,184.692h-43.144v70.426h43.144V462h82.965V254.238h57.882l6.162-69.546h-64.044 c0,0,0-25.97,0-39.615c0-16.398,3.302-22.89,19.147-22.89c12.766,0,44.896,0,44.896,0V50c0,0-47.326,0-57.441,0c-61.734,0-89.567,27.179-89.567,79.231C204.067,174.566,204.067,184.692,204.067,184.692z"></path></svg>
   </a>
   <a href="https://twitter.com/XForeverDeadX" class="hover:text-fd-blue">
@@ -30,3 +30,10 @@ description: 'Forever Dead are a female fronted Canadian Punk Rock band. Kicking
     <svg width="100" height="100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path class="icon" id="email-2-icon" d="M49.744,103.407v305.186H50.1h411.156h1V103.407H49.744z M415.533,138.407L255.947,260.465 L96.473,138.407H415.533z M84.744,173.506l85.504,65.441L84.744,324.45V173.506z M85.1,373.593l113.186-113.186l57.654,44.127 l57.375-43.882l112.941,112.94H85.1z M427.256,325.097l-85.896-85.896l85.896-65.695V325.097z"></path></svg>
   </a>
 </div>
+
+<address class="text-center mt-8">
+Non-Ficti<br>
+261 W. Mary St.<br>
+Thunder Bay, ON<br>
+P7E 4K7
+</address>

@@ -10,11 +10,6 @@
        url('../fonts/sex_pistols-webfont.woff') format('woff');
 }
 
-body {
-  background-image: url('https://res.cloudinary.com/dy8mxogvn/image/upload/c_scale,f_auto,q_auto:good,o_60,w_1200/v1614171563/foreverdead/paper-bg.jpg');
-  background-size: cover;
-}
-
 .splash {
   text-shadow:
     2px 2px 0 black,

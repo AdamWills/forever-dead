@@ -5,6 +5,7 @@ web_modules
 # build artefacts
 src/_site
 dist
+.snowpack
 
 # secrets
 .env

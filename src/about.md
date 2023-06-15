@@ -4,7 +4,6 @@ title: 'Forever Dead!'
 description: 'Forever Dead are a female fronted Canadian Punk Rock band. Kicking ass and taking names since 2005'
 ---
 
-
 <h1>About!</h1>
 
 Formed in 2005, Forever Dead are a five piece rock and roll brotherhood fused with fierce fem-vox. Formerly dabbling in the psychobilly genre, Forever Dead have since settled into their punk rock roots. Playing a rowdy, no bullshit style.
@@ -15,6 +14,7 @@ For nearly two decades Forever Dead have held their own as a fixture in the Nort
 
 2021 marks a new era for the band with the release of their fourth album "Pretending We’re Surviving". Recorded in only six days the album features an eighteen track mix of older, previously unreleased or never recorded songs, and a few that were written while recording the album.
 
+<img src="https://res.cloudinary.com/dy8mxogvn/image/upload/c_scale,f_auto,q_auto:good,w_1200/v1686842515/foreverdead/photo.jpg" alt="Forever Dead group photo" class="">
 <img src="https://res.cloudinary.com/dy8mxogvn/image/upload/c_scale,f_auto,q_auto:good,w_1200/v1618597081/foreverdead/DSC_0796.jpg" alt="Forever Dead playing live" class="">
 <img src="https://res.cloudinary.com/dy8mxogvn/image/upload/c_scale,f_auto,q_auto:good,w_1200/v1618597069/foreverdead/DSC_0027_2.jpg" alt="Forever Dead playing live" class="">
 <img src="https://res.cloudinary.com/dy8mxogvn/image/upload/c_scale,f_auto,q_auto:good,w_1200/v1618597054/foreverdead/DSC_0454.jpg" alt="Forever Dead playing live" class="">

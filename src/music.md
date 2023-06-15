@@ -8,6 +8,8 @@ description: 'Forever Dead are a female fronted Canadian Punk Rock band. Kicking
 
 <div class="flex gap-4 flex-wrap justify-center">
 
+  <iframe style="border: 0; width: 250px; height: 364px;" src="https://bandcamp.com/EmbeddedPlayer/album=4190125312/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/transparent=true/" seamless><a href="https://xforeverdeadx.bandcamp.com/album/heres-to-long-drawn-out-terrible-endings">Here&#39;s To Long Drawn-out Terrible Endings by Forever Dead!</a></iframe>
+
   <iframe style="border: 0; width: 250px; height: 364px;" src="https://bandcamp.com/EmbeddedPlayer/album=1944704163/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/transparent=true/" seamless><a href="https://xforeverdeadx.bandcamp.com/album/pretending-were-surviving">Pretending We&#39;re Surviving by Forever Dead!</a></iframe>
 
   <iframe style="border: 0; width: 250px; height: 364px;" src="https://bandcamp.com/EmbeddedPlayer/album=3881658585/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/transparent=true/" seamless><a href="https://xforeverdeadx.bandcamp.com/album/forever-dead">Forever Dead! by Forever Dead!</a></iframe>

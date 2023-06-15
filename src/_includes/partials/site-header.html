@@ -5,7 +5,9 @@
       aria-label="Global"
     >
       <div class="flex items-center flex-1 justify-between">
-        <div class="flex items-center justify-between w-full lg:w-auto text-4xl">
+        <div
+          class="flex items-center justify-between w-full lg:w-auto text-4xl"
+        >
           <a href="/">Forever Dead</a>
           <div class="-mr-2 flex items-center lg:hidden">
             <button
@@ -37,15 +39,12 @@
           </div>
         </div>
         <div role="nav" class="hidden space-x-4 lg:flex lg:ml-10">
-          {% for item in navigation.items %}
-            {% if item.url == page.url %}
-              {% assign bgClass = 'bg-fd-pink' %}
-            {% else %}
-              {% assign bgClass = 'bg-fd-blue' %}
-            {% endif %}
+          {% for item in navigation.items %} {% if item.url == page.url %} {%
+          assign bgClass = 'bg-fd-pink' %} {% else %} {% assign bgClass =
+          'bg-fd-yellow' %} {% endif %}
           <a
             href="{{ item.url }}"
-            class="text-2xl text-warm-gray-500 hover:text-warm-gray-900 p-4 {{ bgClass }}  hover:bg-fd-yellow border-2 border-black"
+            class="text-2xl text-warm-gray-500 hover:text-white p-4 {{ bgClass }}  hover:bg-fd-pink border-2 border-black transition-colors duration-100"
             >{{ item.text }}</a
           >
           {% endfor %}
@@ -95,18 +94,15 @@
         </svg>
       </button>
       <div class="pt-5 pb-6 px-2 space-y-1">
-          {% for item in navigation.items %}
-            {% if item.url == page.url %}
-              {% assign bgClass = 'bg-fd-pink' %}
-            {% else %}
-              {% assign bgClass = 'bg-fd-blue' %}
-            {% endif %}
-          <a
-            href="{{ item.url }}"
-            class="block px-3 py-2 rounded-md text-base font-medium text-warm-gray-900 hover:bg-warm-gray-50"
-            >{{ item.text }}</a
-          >
-          {% endfor %}
+        {% for item in navigation.items %} {% if item.url == page.url %} {%
+        assign bgClass = 'bg-fd-pink' %} {% else %} {% assign bgClass =
+        'bg-fd-yellow' %} {% endif %}
+        <a
+          href="{{ item.url }}"
+          class="block px-3 py-2 rounded-md text-base font-medium text-warm-gray-900 hover:bg-warm-gray-50"
+          >{{ item.text }}</a
+        >
+        {% endfor %}
       </div>
     </div>
   </div>

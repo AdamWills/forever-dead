@@ -8,6 +8,8 @@ description: 'Forever Dead are a female fronted Canadian Punk Rock band. Kicking
 
 <div class="flex gap-4 flex-wrap justify-center">
 
+  <iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/y-oeMB8patA?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" width="560" height="315"  title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
   <iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/neYWbD8tofM?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
   <iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/IUmRPs888Qw?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
